@@ -1,4 +1,4 @@
-# ![DBeaver Logo](https://example.com/dbeaver-logo.png)
+# ![DBeaver Logo](https://github.com/dbeaverpro/dbeaverpro/blob/3d53cd2df0f18744bb498b991d45c39422e07df0/dbeaver-icon.png)
 
 # Welcome to DBeaver
 
